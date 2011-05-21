@@ -1,0 +1,6 @@
+C:\Users\Alfredo Pinheiro\Desktop\db_ler_ficheiro_excel\db_ler_ficheiro_excel\bin\Debug\db_ler_ficheiro_excel.exe
+C:\Users\Alfredo Pinheiro\Desktop\db_ler_ficheiro_excel\db_ler_ficheiro_excel\bin\Debug\db_ler_ficheiro_excel.pdb
+C:\Users\Alfredo Pinheiro\Desktop\db_ler_ficheiro_excel\db_ler_ficheiro_excel\bin\Debug\EPPlus.dll
+C:\Users\Alfredo Pinheiro\Desktop\db_ler_ficheiro_excel\db_ler_ficheiro_excel\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alfredo Pinheiro\Desktop\db_ler_ficheiro_excel\db_ler_ficheiro_excel\obj\x86\Debug\db_ler_ficheiro_excel.exe
+C:\Users\Alfredo Pinheiro\Desktop\db_ler_ficheiro_excel\db_ler_ficheiro_excel\obj\x86\Debug\db_ler_ficheiro_excel.pdb
