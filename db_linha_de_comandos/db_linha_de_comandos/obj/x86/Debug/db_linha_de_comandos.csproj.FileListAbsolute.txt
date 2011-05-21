@@ -1,0 +1,6 @@
+C:\Users\Alfredo Pinheiro\Desktop\EPPlus\db_linha_de_comandos\db_linha_de_comandos\bin\Debug\db_linha_de_comandos.exe
+C:\Users\Alfredo Pinheiro\Desktop\EPPlus\db_linha_de_comandos\db_linha_de_comandos\bin\Debug\db_linha_de_comandos.pdb
+C:\Users\Alfredo Pinheiro\Desktop\EPPlus\db_linha_de_comandos\db_linha_de_comandos\bin\Debug\EPPlus.dll
+C:\Users\Alfredo Pinheiro\Desktop\EPPlus\db_linha_de_comandos\db_linha_de_comandos\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alfredo Pinheiro\Desktop\EPPlus\db_linha_de_comandos\db_linha_de_comandos\obj\x86\Debug\db_linha_de_comandos.exe
+C:\Users\Alfredo Pinheiro\Desktop\EPPlus\db_linha_de_comandos\db_linha_de_comandos\obj\x86\Debug\db_linha_de_comandos.pdb
