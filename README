@@ -2,3 +2,7 @@ Este apenas cria um ficheiro excel com o que eu especifiquei no codigo.
 Da uma vista de olhos e tenta entender, acho que esta bem comentado.
 
 > Vou fazer agora outro para importar dados desse ficheiro, tambem em linha de comandos e depois passo para Windows Forms, talvez ainda hoje.
+
+[UPDATE]
+Fiz agora o upload do codigo que extrai os dados de onde nos quisermos, como exemplo usei o campo do ano de escolaridade. 
+Para a proxima temos que melhorar isso, vou tentar ficar aqui mais algumas horas hoje.
